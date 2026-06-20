@@ -6,11 +6,15 @@ Victor Manuel Hernandez Ortega         23310386
 
 Instrucciones de uso:
 
-1-
-
-2-
-
-3-
+1- Se ingresa al Notebook de Google Colab
+https://colab.research.google.com/drive/1hWygByiLFx_MjXuMp58jr_k7-jcLOtrg#scrollTo=MZaQil4x-gmw
+2-Si es la primera vez que se prueba se ejecuta desde el principio
+3-Si ya se han realizado pruebas anteriores se empieza a ejecutar desde el apartado para subir la imagen a analizar
+<img width="901" height="222" alt="image" src="https://github.com/user-attachments/assets/cca89978-acbd-4959-b60d-5b31d150412d" />
+3.1- Al subir la imagen a analizar se le tiene que cambiar el nombre de la imagen en las siguientes secciones de codigo y se corren en el orden que se encuentran
+<img width="890" height="340" alt="image" src="https://github.com/user-attachments/assets/55adf161-beb5-4dee-8e90-3aa2dd5153f2" />
+4- Al ejecutar el ultimo cuadro de codigo se muestra el resultado de la imagen analizada
+<img width="894" height="460" alt="image" src="https://github.com/user-attachments/assets/a16c5d94-f436-4505-9261-6e29fbb7e7ae" />
 
 
 Caso de Estudio:
