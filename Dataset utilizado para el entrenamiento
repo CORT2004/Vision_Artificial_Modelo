@@ -1,0 +1,8 @@
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="XXXXXXXXXXXX")
+project = rf.workspace("victors-workspace-6oatp").project("detector-de-residuos-vscwy")
+version = project.version(3)
+dataset = version.download("yolov8")
+                
